@@ -1,4 +1,4 @@
-# 100 Exercises With Sklearn
+# 100 Exercises With Tensorflow, Pytorch Hugging face and Transform 
 
 100 exercises with scikit-learn 
 
